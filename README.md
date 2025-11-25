@@ -4,7 +4,7 @@
 This repository contains our group solution for **Exercise 3** using **Dynamic Time Warping (DTW)** and sliding-window feature extraction.
 
 This project uses **uv** for environment and dependency management.  
-Install uv from: https://github.com/astral-sh/uv
+Install uv from: [https://docs.astral.sh/uv/getting-started/installation/](https://docs.astral.sh/uv/getting-started/installation/)
 
 ## Project Structure
 ```
